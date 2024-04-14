@@ -7,3 +7,4 @@ I'm a developer at @inovex based in Munich, currently working on [scrumlr.io](ht
 - 🎨 Exploring design in Figma
 - 🖋️ Enthusiastic Neovim user
 - 📚 Learning Angular, Svelte, and HTMX
+- ➡️  Make sure to check out my website [manuelbrandstetter.dev](https://manuelbrandstetter.dev)
